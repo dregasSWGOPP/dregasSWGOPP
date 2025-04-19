@@ -3,7 +3,7 @@
 <h3 align="center">I'm learning Python, and I'm also a professional sports shooter </h3>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark ?quote= Работать надо не 12 часов в сутки, а неграм.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
